@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## DLIB Face Recognition Project
 
 You can use the [editor on GitHub](https://github.com/ham9615/face_recognition_dlib/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
